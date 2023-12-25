@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "562079004596",
+    "project_id": "ostad-94a28",
+    "storage_bucket": "ostad-94a28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562079004596:android:adb1e0d5d14fbcf96fe4e1",
+        "android_client_info": {
+          "package_name": "com.example.module_16"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1E8wiDw6gpUETqz5IijuE1WCxn9xerlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
